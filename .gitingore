@@ -1,0 +1,29 @@
+# === Python cache files ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# === Virtual environments ===
+venv/
+.venv/
+
+# === Environment variables ===
+.env
+
+# === Logs / output ===
+*.log
+*.out
+*.bak
+
+# === OS generated ===
+.DS_Store
+Thumbs.db
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+
+# === JMeter downloads / Grafana screenshots (optional for CI cleanup) ===
+downloads/
+screenshots/
