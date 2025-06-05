@@ -1,0 +1,3 @@
+packaging==25.0
+kubernetes==32.0.1
+openshift-python-wrapper==11.0.57
